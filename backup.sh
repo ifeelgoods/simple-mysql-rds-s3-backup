@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-set -e
 set -x
 
 DATETIME=`date +"%Y-%m-%d_%H_%M"`
